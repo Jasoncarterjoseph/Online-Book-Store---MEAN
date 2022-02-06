@@ -5,9 +5,9 @@ Book Store is a simple single page application (SPA) that lets you buy, rate and
 
 ### Full Project Walk Through
 <object width="425" height="350">
-  <param name="movie" value="http://www.youtube.com/user/wwwLoveWatercom?v=BTRN1YETpyg" />
+  <param name="movie" value="https://onedrive.live.com/embed?cid=2C8A5064399A7C67&resid=2C8A5064399A7C67%21357&authkey=ABYE7dGzONH7_YI" />
   <param name="wmode" value="transparent" />
-  <embed src="http://www.youtube.com/user/wwwLoveWatercom?v=BTRN1YETpyg"
+  <embed src="https://onedrive.live.com/embed?cid=2C8A5064399A7C67&resid=2C8A5064399A7C67%21357&authkey=ABYE7dGzONH7_YI"
          type="application/x-shockwave-flash"
          wmode="transparent" width="425" height="350" />
 </object>
