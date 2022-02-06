@@ -3,6 +3,9 @@
 
 Book Store is a simple single page application (SPA) that lets you buy, rate and leave your comment for all the books that are available in the store. You can also see all of your purchased books history or create your own favorite books list.
 
+### Full Project Walk Through
+<iframe src="https://onedrive.live.com/embed?cid=2C8A5064399A7C67&resid=2C8A5064399A7C67%21357&authkey=ABYE7dGzONH7_YI" width="320" height="180" frameborder="0" scrolling="no" allowfullscreen></iframe>
+
 ### Tech
 
 Book Store uses a number of open source projects to work:
