@@ -5,7 +5,7 @@ Book Store is a simple single page application (SPA) that lets you buy, rate and
 
 ### Full Project Walk Through
 
-<video src='https://onedrive.live.com/embed?cid=2C8A5064399A7C67&resid=2C8A5064399A7C67%21357&authkey=ABYE7dGzONH7_YI' width=180/>
+<video src='https://1drv.ms/v/s!Amd8mjlkUIosgmUq4yqmv-AA8sY4' width=180/>
 
 ### Tech
 
